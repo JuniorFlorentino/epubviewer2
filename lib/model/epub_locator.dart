@@ -1,4 +1,4 @@
-part of 'package:epub_viewer/epub_viewer.dart';
+part of 'package:epubviewer2/epubviewer2.dart';
 
 /// Model for android EpubLocator
 class EpubLocator {

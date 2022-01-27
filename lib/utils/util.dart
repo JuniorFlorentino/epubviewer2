@@ -1,4 +1,4 @@
-import 'package:epubviewer2/epubviewer2.dart';
+part of 'package:epubviewer2/epubviewer2.dart';
 
 class Util {
   /// Get HEX code from [Colors], [MaterialColor],
