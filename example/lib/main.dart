@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:epubviewer2/epubviewer2.dart';
 
 void main() {
   runApp(const MyApp());

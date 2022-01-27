@@ -54,7 +54,7 @@ public class epubviewer2Plugin implements MethodCallHandler, FlutterPlugin, Acti
       }
     });
 
-    final MethodChannel channel = new MethodChannel(registrar.messenger(), "epub_viewer");
+    final MethodChannel channel = new MethodChannel(registrar.messenger(), "epubviewer2");
     channel.setMethodCallHandler(new EpubViewerPlugin());
 
   }

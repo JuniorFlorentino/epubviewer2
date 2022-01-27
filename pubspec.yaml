@@ -1,6 +1,6 @@
 name: epubviewer2
 description: epubviewer2 is an epub ebook reader that encapsulates the folioreader framework..
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/JuniorFlorentino/epubviewer2
 
 environment:
